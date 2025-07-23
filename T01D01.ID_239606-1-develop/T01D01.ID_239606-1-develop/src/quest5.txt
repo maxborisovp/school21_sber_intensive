@@ -1,0 +1,6 @@
+cd door_management_files/door_configuration
+nano door_1.conf
+Редактирование CLOSED на OPEN
+Ctrl+X
+Y
+Enter
